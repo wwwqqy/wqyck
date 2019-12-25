@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\bin\Debug\EmailDemo.exe.config
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\bin\Debug\EmailDemo.exe
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\bin\Debug\EmailDemo.pdb
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\App.g.cs
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo_MarkupCompile.cache
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo_MarkupCompile.lref
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\MainWindow.baml
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.g.resources
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.Properties.Resources.resources
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.exe
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.pdb
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\bin\Debug\LoadContent.dll
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\bin\Debug\LoadContent.pdb
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\EmailDemo\obj\Debug\EmailDemo.csproj.CopyComplete

@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\bin\Debug\LoadContent.dll
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\bin\Debug\LoadContent.pdb
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\Window1.g.cs
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent_MarkupCompile.cache
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent_MarkupCompile.lref
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\Window1.baml
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.g.resources
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.Properties.Resources.resources
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.dll
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.pdb
+C:\Users\Administrator\Desktop\结课作业\EmailDemo\LoadContent\obj\Debug\LoadContent.csprojAssemblyReference.cache
